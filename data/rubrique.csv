@@ -1,0 +1,44 @@
+"id","article_bail","etat","numero","libelle","valeur"
+1,1,True,1,"Le bailleur loue par les présentes au preneur qui accepte les lieux ci-après décrits à l'article 2, situé au quartier Mvan à  usage exclusif d'habitation.",False
+2,1,True,2,"Ils ne pourront être utilisé même temporairement à d'autres usages que celui ainsi arrêté sous peine de résiliation de plein droit de bail, suivi d'un délaissement immédiat à la première demande du bailleur .",False
+3,2,True,1,"Les locaux objet du présent bail se présentent ainsi qu'il suit :",False
+4,2,True,2,"il n'est pas fait plus ample description des lieux loués, le preneur déclarant les connaître parfaitement pour les avoir vu, visité, et accepté tels quels, avant conclusion du présent contrat",False
+5,2,True,3,"A défaut d'état de lieux ci-dessus, le preneur reconnait qu'il sera réputé avoir occupé les lieu en parfait état.",False
+6,3,True,1,"Le présent bail est inclus pour une durée ferme et définitive d'un (1) an? Sauf si les parties en disposent autrement",False
+7,3,True,2,"Un mois avant la fin du bail, il est inclus un nouveau bail si nécessaire pour la même durée  à la même demande écrite du locataire.",False
+8,3,True,3,"En cas d'acceptation du bailleur ou de son silence garder jusqu'au moins deux semaines avant l'expiration du bail, le renouvellement est acquis et dans tous les cas pour une durée supplémentaire d'un an.",False
+9,4,True,1,"le prix du loyer mensuel hors taxes consenti pour la présente location est de :",True
+10,4,True,2,"Que le preneur accepte payer ainsi que les accessoires, à chaque échéance ci-après indiquée ;",False
+11,4,True,3,"Le loyer est payable mensuellement ;",False
+12,4,True,4,"Le preneur s'oblige à s'acquitter ses loyers et accessoires par terme et d'avance à Yaoundé, au plus tard le premier jour de chaque mois ;",False
+13,4,True,5,"Les paiements tant du loyer que de accessoires seront effectuées par des versements en espèces entre les mains du bailleur ou de tout autre mandataire détenteur d'une bonne et valable procuration",False
+14,5,True,1,"Tous les frais fixés par les règlements publics relatifs à l'établissement de présentes ( frais d'enregistrement, frais de timbre et pénalités de toutes natures), sont à la charge du preneur;",False
+15,5,True,2,"Les taxes fixées par les administrations publiques, communales sont également à sa charge et dues dans les conditions, et aux dates fixées par ces administrations ; il devra  justifier de leurs acquis avant de déménager ;",False
+16,5,True,3,"En cas de règlement tardif de ces taxes par le preneur, les pénalités administratives et  fiscales en résultant sont à la charge du preneur; ",False
+17,5,True,4,"les frais droits et honoraires aux quels pourront donner lieu le présent acte et ses suites, y compris les frais de poursuites de toutes natures, seront supportés par le preneur;",False
+18,6,True,1,"Le montant de la caution ou du dépôt de garantie est de :",True
+19,6,True,2,"le dernier terme du loyer ne sera ni imputable sur le dépôt de garantie ;  Celui-ci restera conservé à titre de sûreté de bonne exécution du présent bail;",False
+20,6,True,3,"Le preneur ne pourra exiger le remboursement de la caution ou du dépôt de garantie en fin de jouissance, dès complet déménagement, remise de toutes les clés et des lieux en état initial d'occupation ;",False
+21,7,True,1,"Le preneur entretiendra les lieux loués en bon état de réparation locative, en jouira en bon père de famille et les restituera en fin de bail en bon état.",False
+22,7,True,2,"Le preneur devra notamment refaire les badigeons, peinture de boiserie, des murs, portes, plafonnage, etc... conformément aux dispositions de l'article 1 754 code civil aussi souvent que besoin sera ;",False
+23,7,True,3,"Le bailleur ne sera tenu d'exécuter au cours du bail que les grosses réparations qui pourraient, conformément aux disposition de l'article 1 720 du code civil, devenir nécessaires, toute autre réparation quelle qu'elle soit restant à chaque charge du preneur qui en supportera les conséquences.",False
+24,8,True,1,"Le présent bail est signé intuitu personnage, toute cession des droits au présent contrat, toute sous location est interdite ; ",False
+25,9,True,1,"Le preneur satisfera à toutes les prescriptions de police, de voirie et d'hygiène.",False
+26,10,True,1,"Le preneur est responsable de toutes dégradations commises, et de tous sinistres directs et indirects qui pourraient être survenus par lui, par les occupants de son chef, ou par des tiers quelconques se trouvant même momentanément sur les lieux loués par lui, ou ayant un rapport quelconque avec lui;",False
+27,10,True,2,"Il sera particulièrement responsable et de plein droit, des dégâts causés en cours d'aménagement, ainsi que ceux résultant des activités des personnes effectuant pour son compte des travaux sur les lieux, ou celle des personnes vivants avec lui ; ",False
+28,10,True,3,"Il renonce à tous recours en responsabilité contre le bailleur, et pourra exiger de ce dernier aucune indemnité, ni diminution de loyer dans les cas ci-après en cas d'interruption dans le service de l'eau, d'électricité, par suite d'accident ou d’événements indépendants de la volonté du bailleur ;",False
+29,11,True,1,"Le preneur après avoir été au moins vingt quatre (24) heures à l'avance, devra laissé le bailleur ( en personne ou celle de son représentant préposé ) visité les lieux loués chaque fois qu'il le jurera nécessaire, pour tous travaux, relevés, et inspections utiles;",False
+30,11,True,2,"Il devra également laisser pénétré les architectures ou entrepreneurs et leur personnel pour tous travaux rendus nécessaires ;",False
+31,12,True,1,"Le preneur paiera directement au concessionnaire le montant des abonnement ou consommation d'eau, d'électricité, de téléphone, d'image TV et Internet ; il fera son affaire personnelle;",False
+32,12,True,2,"En cas de bon abonnement chez le concessionnaire , le preneur devra se rapprocher du bailleur qui fixera ses propres modalités d'abonnement ;",False
+33,13,True,1,"Toutes tolérances de la part du bailleur, quelles qu'en aient pu être la fréquence et la durée au sujet des clause et conditions du présent accord, ne pourront jamais être considérés comme apportant des modifications ou suppressions de ces clauses et conditions, ni comme génératrice d'un droit quelconque ;",False
+34,14,True,1,"Les parties conviennent expressément que le présent bail sera considéré comme résilié de plein droit et le contrat éteint définitivement pour l'avenir, sans aucune formalité, entre elles dans les hypothèses ci-après :
+ a-)En cas de décès du preneur,
+ b-) En cas de non paiement à son échéance d'un seul terme de loyer, ou d'une quelconque somme due en vertu des présentes et huit jours après sommation de payer restée infructueuse ;",False
+35,14,True,2,"Dans tous les cas de résiliation, sans préjudice des autres voies de droit, le mobilier garnissant les lieux loués, pourra au gré du bailleur, être séquestré sur place ou dans un garde meuble, aux frais, risque et périls sur requête signés par Monsieur le Président du Tribunal  de Première Instance de Yaoundé EKOUNOU, à charge de lui en référé en cas de difficultés ; ",False
+36,14,True,3,"Le séquestre du mobilier fait conformément à la clause ci-dessus pourra être levé, soit par accords amiable signés entre les parties, soit à la suite d'une procédure judiciaire définitive de liquidation de l'intégralité des droits du bailleur.",False
+37,14,True,4,"En cas de résiliation amiable, les parties acceptent organiser dans les  accords écrits particuliers les modalités de liquidation des droits de chacune d'elles, celle-ci pouvant prévoir qu'il soit défalqué la caution ou du dépôt de garantie,  indépendamment des loyers, arriérés de loyers et accessoires, les frais de remise des locaux en état, et plus généralement toute somme due,",False
+38,15,True,1,"Après  extinction du présent bail, ou en cas d'acquisition définitive de la clause résolutoire, le délaissement forcé de l'immeuble sera poursuivi et exécuté suivant la simple procédure de référé engagé devant le Tribunal de Première Instance de Yaoundé Ekounou ;",False
+39,16,True,1,"Au cas où après cessation ou résiliation du bail, et pour quelque cause que ce soient, les lieux ne seraient pas restitués en l'état au bailleur, et  libre de toute occupation, il lui sera dû une indemnité contractuelle d'occupation ;",False
+40,17,True,1,"Pour l'exécution des  présentes, les parties font élection de domicile à leur adresse respective à Yaoundé.",False
+41,17,True,2,"A défaut d'accords écrit particuliers amiables terminant  tout litige entre les parties en cours d'exécution du présent bail, le président du Tribunal de Première Instance  de Yaoundé Ekounou ou tout juge délégué par lui, siègent en chambre de conseil, ou en matière d'urgence est la juridiction contractuelle unique pour trancher tout différend né entre les parties; ",False

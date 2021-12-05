@@ -1,0 +1,10 @@
+prod:
+    scheme: sftp
+    host: "82.165.183.4"
+    port: 22
+    user: flysoft
+    pass: admin2021
+    check: true
+    exclude: ['_modelisation']
+    path:
+        remote: /var/www/maisonier/backend/

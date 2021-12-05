@@ -1,0 +1,6 @@
+node_modules
+static/*/**.jpg
+static/*/**.jpeg
+static/*/**.png
+static/*/**.gif
+!static/*/default.jpg

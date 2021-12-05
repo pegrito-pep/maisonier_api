@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "admin",
+        "database": "fs_maisonier3",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "flysoft",
+        "password": "FlySoft2021",
+        "database": "flysoft_le_maisonier",
+        "host": "postgresql-flysoft.alwaysdata.net",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "flysoft",
+        "password": "Flysoft2021",
+        "database": "maisonier",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}

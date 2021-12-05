@@ -1,0 +1,103 @@
+[{
+        "id": 1,
+        "libelle": "OBJET-USAGE DES LIEUX",
+        "numero": 1,
+        "etat": "True"
+    },
+    {
+        "id": 2,
+        "libelle": "DÉSIGNATION-COMPOSITION-ETAT DES LIEUX",
+        "numero": 2,
+        "etat": "True"
+    },
+    {
+        "id": 3,
+        "libelle": "DURÉE DU BAIL-AVENANT DE RENOUVELLEMENT",
+        "numero": 3,
+        "etat": "True"
+    },
+    {
+        "id": 4,
+        "libelle": "PRIX DU LOYER ET DES REDEVANCES D'OCCUPATION",
+        "numero": 4,
+        "etat": "True"
+    },
+    {
+        "id": 5,
+        "libelle": "FRAIS D’ÉTABLISSEMENT, DÉPENSES D'ENREGISTREMENT, TIMBRE DE TAXES DIVERSES, ET FRAIS DE POURSUITES",
+        "numero": 5,
+        "etat": "True"
+    },
+    {
+        "id": 6,
+        "libelle": "LA CAUTION OU DÉPÔT DE GARANTIE",
+        "numero": 6,
+        "etat": "True"
+    },
+    {
+        "id": 7,
+        "libelle": "ENTRETIENT TRAVAUX RÉPARATIONS-REGLEMENTS D'IMMEUBLE",
+        "numero": 7,
+        "etat": "True"
+    },
+    {
+        "id": 8,
+        "libelle": "CESSION DE BAIL SOUS LOCATION",
+        "numero": 8,
+        "etat": "True"
+    },
+    {
+        "id": 9,
+        "libelle": "RÈGLEMENT URBAIN",
+        "numero": 9,
+        "etat": "True"
+    },
+    {
+        "id": 10,
+        "libelle": "ASSURANCES-RESPONSABILITÉS-RECOURS DIVERS",
+        "numero": 10,
+        "etat": "True"
+    },
+    {
+        "id": 11,
+        "libelle": "VISITES- ACCÈS DES LIEUX-REMISE DES CLES",
+        "numero": 11,
+        "etat": "True"
+    },
+    {
+        "id": 12,
+        "libelle": "ELECTRICITÉ -EAU-TÉLÉPHONE-IMAGETV-INTERNET",
+        "numero": 12,
+        "etat": "True"
+    },
+    {
+        "id": 13,
+        "libelle": "TOLERENCES",
+        "numero": 13,
+        "etat": "True"
+    },
+    {
+        "id": 14,
+        "libelle": "CLAUSE RÉSOLUTOIRE - PRIVILÈGE DU BAILLEUR",
+        "numero": 14,
+        "etat": "True"
+    },
+    {
+        "id": 15,
+        "libelle": "DÉLAISSEMENT FORCE DE L'IMMEUBLE OU EXPULSION",
+        "numero": 15,
+        "etat": "True"
+    },
+    {
+        "id": 16,
+        "libelle": "OCCUPATION DES LIEUX APRÈS CESSATION OU RÉSILIATION DU BAIL",
+        "numero": 16,
+        "etat": "True"
+    },
+    {
+        "id": 17,
+        "libelle": "ELECTION DE DOMICILE - ATTRIBUTION DE COMPETENCE",
+        "numero": 17,
+        "etat": "True"
+    }
+]

@@ -1,0 +1,21 @@
+[{
+    "libelleType": "Appartements",
+    "descType": "",
+    "sousTypes": [{
+        "libelleSousType": "Appartements modernes",
+        "descSousType": ""
+    }, {
+        "libelleSousType": "Appartements meublés",
+        "descSousType": ""
+    }]
+}, {
+    "libelleType": "Chambres",
+    "descType": "",
+    "sousTypes": [{
+        "libelleSousType": "Chambres simples",
+        "descSousType": ""
+    }, {
+        "libelleSousType": "Grande chambre moderne",
+        "descSousType": ""
+    }]
+}]
